@@ -1,5 +1,5 @@
-# Hangman-Game
-Team Name- Team Clueless 
+# Team Clueless
+
 
 
 
@@ -33,7 +33,7 @@ Nomita- Manager, Roll n.o-2310990755
 
 
 
-Project Overview
+## Project Overview
 
 
 
